@@ -16,10 +16,6 @@ demo.                                       u:object_r:exported_default_prop:s0
 ro.vendor.mtk_hdr_video_support             u:object_r:vendor_mtk_default_prop:s0
 
 # Fingerprint
-persist.vendor.goodix.dump_data             u:object_r:vendor_fingerprint_prop:s0
-persist.vendor.sys.fp.goodix.spmt.flag      u:object_r:vendor_fingerprint_prop:s0
-vendor.fp.goodix.X.offset                   u:object_r:vendor_fingerprint_prop:s0
-vendor.fp.goodix.Y.offset                   u:object_r:vendor_fingerprint_prop:s0
 vendor.fp.transsion.lcmname                 u:object_r:vendor_fingerprint_prop:s0
 vendor.fp.currentUid                        u:object_r:vendor_fingerprint_prop:s0
 persist.vendor.fp.sensorUid                 u:object_r:vendor_fingerprint_prop:s0
